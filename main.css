@@ -1,0 +1,18 @@
+#image_div {
+    width: 500px;
+    height: 500px;
+    border: 3px solid black;
+    position: relative;
+}
+
+#pikachu {
+    width: 150px;
+}
+
+#charmander {
+    width: 200px;
+}
+
+#who {
+    width: 100px;
+}
